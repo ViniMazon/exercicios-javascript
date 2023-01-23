@@ -1,3 +1,3 @@
 # Exercícios de Javascript
 
-Exercícios propostos no curso Fundamentar da Rocketseat
+Exercícios propostos para prática de Javascript no curso Fundamentar da Rocketseat
